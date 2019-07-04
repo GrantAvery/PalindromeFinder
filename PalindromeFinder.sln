@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeFinder", "PalindromeFinder\PalindromeFinder.csproj", "{473EF085-68FF-4792-91D5-1BE6C1B9DA0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{473EF085-68FF-4792-91D5-1BE6C1B9DA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473EF085-68FF-4792-91D5-1BE6C1B9DA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473EF085-68FF-4792-91D5-1BE6C1B9DA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473EF085-68FF-4792-91D5-1BE6C1B9DA0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
